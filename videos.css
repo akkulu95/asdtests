@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color: white;
+    display: grid;
+    border:solid 1px black;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+
+    
+}
+.container{
+    display:flex;
+    background-color:wheat;
+
+}
+body{
+    background-image: url('images\autism1.jpg');
+}
